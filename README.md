@@ -6,18 +6,21 @@ This project is a full-stack social network platform built using **Spring Boot**
 - **User Authentication & Authorization**: Secure registration, login, and session management with Spring Security & JWT. Supports **Google OAuth** for social login.
 - **Real-time Notifications**: Receive instant notifications for likes, comments, and new friend requests via WebSocket.
 - **Real-time Messaging**: Chat with friends in real-time using WebSocket-based messaging.
-- **News Feed**: Displaying posts from users.
+- **News Feed**: A personalized feed displaying posts from followed users.
 - **Profile Management**: Users can customize profiles, upload avatars, and manage privacy settings.
 - **Posts & Comments**: Users can create, like, comment, and share posts.
 - **Friendship System**: Send, accept, and manage friend requests.
 - **Admin Dashboard**: Manage users, moderate content, and review reported posts from users.
+- **Search with Debounce**: Efficient user and content search with debounce functionality to reduce unnecessary requests.
+- **Online Status Indicator**: Friend list shows online/offline status of users with dot indicators.
 - **Responsive Design**: Mobile-friendly user interface using Vue.js and modern CSS frameworks.
 
 ### Technologies Used:
 - **Backend**: Spring Boot, Spring Security, JPA, Hibernate, MySQL, RESTful API, JWT, WebSocket, Google OAuth
-- **Frontend**: Vue.js, Vuex, Vue Router, Axios, Bootstrap, Element-plus
-- **Real-time Features**: WebSocket for real-time notifications (friend requests, likes, comments) and chat messages
+- **Frontend**: Vue.js, Vuex, Vue Router, Axios, Bootstrap/Tailwind
+- **Real-time Features**: WebSocket for real-time notifications (friend requests, likes, comments), chat messages, and online status updates
 - **Database**: MySQL for persistent data storage
+- **Version Control**: Git for source control management
 
 ### Database Setup:
 1. **Run the Spring project**: First, run the project once to let Spring automatically create the database tables.
@@ -71,20 +74,33 @@ Once the project is successfully run, you can explore the following key features
 
    ![Real-time Messaging](https://via.placeholder.com/400x200)
 
-3. **News Feed**:
+3. **Search with Debounce**:
+   - Efficient search for users or content with a debounce mechanism to optimize performance and minimize server load.
+
+   ![Search Feature](https://via.placeholder.com/400x200)
+
+4. **Friend List Online Status**:
+   - The friend list shows dot indicators for online (green) or offline (gray) status in real-time.
+
+   ![Friend List](https://via.placeholder.com/400x200)
+
+5. **News Feed**:
    - Users can view the latest posts from their friends on a personalized feed.
 
    ![News Feed](https://via.placeholder.com/400x200)
 
-4. **Admin Dashboard**:
+6. **Admin Dashboard**:
    - Administrators can view and manage user reports, as well as handle user roles and permissions.
 
    ![Admin Dashboard](https://via.placeholder.com/400x200)
 
-5. **User Profile & Friend Management**:
+7. **User Profile & Friend Management**:
    - Customize personal profiles, add friends, and manage friend requests.
 
    ![User Profile](https://via.placeholder.com/400x200)
 
 ### Contribution:
 Feel free to contribute to the project! Submit pull requests or raise issues for improvements, bugs, or new features.
+
+### License:
+This project is licensed under the MIT License.
