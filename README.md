@@ -48,12 +48,12 @@ VALUES ('ROLE_USER'), ('ROLE_MODERATOR'), ('ROLE_ADMIN');
    ```
 2. **Backend**: Navigate to the `backend` directory, configure the application.properties file, and run the Spring Boot server.
    ```bash
-   cd backend
+   cd Spring_backend
    ./mvnw spring-boot:run
    ```
 3. **Frontend**: Navigate to the `frontend` directory and start the Vue.js development server.
    ```bash
-   cd frontend
+   cd Vue_frontend
    npm install
    npm run serve
    ```
