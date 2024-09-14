@@ -78,9 +78,10 @@ Once the project is successfully run, you can explore the following key features
 
 
 3. **Search with Debounce**:
-   - Efficient search for users or content with a debounce mechanism to optimize performance and minimize server load.
+   - Search for users or content with a debounce mechanism.
 
-   ![Search Feature](https://via.placeholder.com/400x200)
+   ![search](https://github.com/user-attachments/assets/1757503a-a32f-44c4-935b-1adaf5ad0653)
+
 
 4. **Friend List Online Status**:
    - The friend list shows dot indicators for online (green) or offline (gray) status in real-time.
