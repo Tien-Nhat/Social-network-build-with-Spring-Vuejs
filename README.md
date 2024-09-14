@@ -13,7 +13,6 @@ This project is a full-stack social network platform built using **Spring Boot**
 - **Admin Dashboard**: Manage users, moderate content, and review reported posts from users.
 - **Search with Debounce**: Efficient user and content search with debounce functionality to reduce unnecessary requests.
 - **Online Status Indicator**: Friend list shows online/offline status of users with dot indicators.
-- **Responsive Design**: Mobile-friendly user interface using Vue.js and modern CSS frameworks.
 
 ### Technologies Used:
 - **Backend**: Spring Boot, Spring Security, JPA, Hibernate, MySQL, RESTful API, JWT, WebSocket, Google OAuth
