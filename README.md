@@ -1,6 +1,6 @@
 ## Social Network Platform - Spring Boot & Vue.js
 
-This project is a full-stack social network platform built using **Spring Boot** for the backend and **Vue.js** for the frontend. The platform allows users to create profiles, post updates, interact with other users, and more. It focuses on scalability, performance, and a clean, modular architecture.
+This project is a full-stack social network platform built using **Spring Boot** for the backend and **Vue.js** for the frontend. The platform allows users to create profiles, post updates, interact with other users, and more.
 
 ### Key Features:
 - **User Authentication & Authorization**: Secure registration, login, and session management with Spring Security & JWT. Supports **Google OAuth** for social login.
