@@ -16,7 +16,7 @@ This project is a full-stack social network platform built using **Spring Boot**
 
 ### Technologies Used:
 - **Backend**: Spring Boot, Spring Security, JPA, Hibernate, MySQL, RESTful API, JWT, WebSocket, Google OAuth
-- **Frontend**: Vue.js, Vuex, Vue Router, Axios, Bootstrap/Tailwind
+- **Frontend**: Vue.js, Vuex, Vue Router, Axios, Bootstrap, Element-plus
 - **Real-time Features**: WebSocket for real-time notifications (friend requests, likes, comments), chat messages, and online status updates
 - **Database**: MySQL for persistent data storage
 - **Version Control**: Git for source control management
