@@ -90,9 +90,11 @@ Once the project is successfully run, you can explore the following key features
 
 
 5. **News Feed**:
-   - Users can view the latest posts from their friends on a personalized feed.
+   - Users can view the latest posts from user.
 
-   ![News Feed](https://via.placeholder.com/400x200)
+   ![viewPost](https://github.com/user-attachments/assets/c6195180-4542-400b-a3f7-418de88897f3)
+
+
 
 6. **Admin Dashboard**:
    - Administrators can view and manage user reports, as well as handle user roles and permissions.
