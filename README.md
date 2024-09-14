@@ -99,7 +99,8 @@ Once the project is successfully run, you can explore the following key features
 6. **Admin Dashboard**:
    - Administrators can view and manage user reports, as well as handle user roles and permissions.
 
-   ![Admin Dashboard](https://via.placeholder.com/400x200)
+   ![admin board](https://github.com/user-attachments/assets/88681a34-0140-4809-85c5-495310a391f3)
+
 
 7. **User Profile & Friend Management**:
    - Customize personal profiles, add friends, and manage friend requests.
