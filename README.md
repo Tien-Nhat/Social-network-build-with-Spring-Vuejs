@@ -73,9 +73,9 @@ Once the project is successfully run, you can explore the following key features
    - Users will receive real-time notifications for new friend requests, likes, and comments.
    ![noti](https://github.com/user-attachments/assets/f6bab4c7-a574-47e8-b514-813953eb74d2)
 
-   - Engage in live chat with friends.
+   - Chat with friends.
 
-   ![Real-time Messaging](https://via.placeholder.com/400x200)
+   ![noti](https://github.com/user-attachments/assets/a5fca380-3572-4403-a552-bcb4f6a73b80)
 
 3. **Search with Debounce**:
    - Efficient search for users or content with a debounce mechanism to optimize performance and minimize server load.
