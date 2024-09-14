@@ -105,7 +105,8 @@ Once the project is successfully run, you can explore the following key features
 7. **User Profile & Friend Management**:
    - Customize personal profiles, add friends, and manage friend requests.
 
-   ![User Profile](https://via.placeholder.com/400x200)
+   ![user](https://github.com/user-attachments/assets/c0f598bb-1a7d-4e34-8df4-0e46670484b9)
+
 
 ### Contribution:
 Feel free to contribute to the project! Submit pull requests or raise issues for improvements, bugs, or new features.
