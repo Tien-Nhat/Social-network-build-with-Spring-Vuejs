@@ -19,7 +19,6 @@ This project is a full-stack social network platform built using **Spring Boot**
 - **Frontend**: Vue.js, Vuex, Vue Router, Axios, Bootstrap, Element-plus
 - **Real-time Features**: WebSocket for real-time notifications (friend requests, likes, comments), chat messages, and online status updates
 - **Database**: MySQL for persistent data storage
-- **Version Control**: Git for source control management
 
 ### Database Setup:
 1. **Run the Spring project**: First, run the project once to let Spring automatically create the database tables.
