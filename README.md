@@ -65,6 +65,7 @@ Once the project is successfully run, you can explore the following key features
 
 1. **Login & Google OAuth**:
    - Users can register or log in using their credentials or Google account.
+![login](https://github.com/user-attachments/assets/81fe513a-69ae-4db9-bd57-4ff57d486304)
 
    ![Login Interface](https://via.placeholder.com/400x200)
 
