@@ -64,9 +64,9 @@ VALUES ('ROLE_USER'), ('ROLE_MODERATOR'), ('ROLE_ADMIN');
 Once the project is successfully run, you can explore the following key features in the application:
 
 1. **Login & Google OAuth**:
-   - Users can register or log in using their credentials or Google account.
+   - Users can log in using Google account.
 ![login](https://github.com/user-attachments/assets/81fe513a-69ae-4db9-bd57-4ff57d486304)
-
+   - register or log in using their credentials or 
    ![Login Interface](https://via.placeholder.com/400x200)
 
 2. **Real-time Notifications & Messaging**:
