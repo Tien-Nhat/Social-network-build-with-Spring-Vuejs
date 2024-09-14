@@ -71,6 +71,8 @@ Once the project is successfully run, you can explore the following key features
 
 2. **Real-time Notifications & Messaging**:
    - Users will receive real-time notifications for new friend requests, likes, and comments.
+   ![noti](https://github.com/user-attachments/assets/f6bab4c7-a574-47e8-b514-813953eb74d2)
+
    - Engage in live chat with friends.
 
    ![Real-time Messaging](https://via.placeholder.com/400x200)
