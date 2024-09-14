@@ -44,7 +44,7 @@ VALUES ('ROLE_USER'), ('ROLE_MODERATOR'), ('ROLE_ADMIN');
 ### How to Run:
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/social-network-platform.git](https://github.com/Tien-Nhat/Social-network-build-with-Spring-Vuejs.git)
+   git clone https://github.com/Tien-Nhat/Social-network-build-with-Spring-Vuejs.git
    ```
 2. **Backend**: Navigate to the `backend` directory, configure the application.properties file, and run the Spring Boot server.
    ```bash
