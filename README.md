@@ -110,6 +110,3 @@ Once the project is successfully run, you can explore the following key features
 
 ### Contribution:
 Feel free to contribute to the project! Submit pull requests or raise issues for improvements, bugs, or new features.
-
-### License:
-This project is licensed under the MIT License.
