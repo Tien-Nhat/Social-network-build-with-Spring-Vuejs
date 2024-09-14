@@ -74,8 +74,8 @@ Once the project is successfully run, you can explore the following key features
    ![noti](https://github.com/user-attachments/assets/f6bab4c7-a574-47e8-b514-813953eb74d2)
 
    - Chat with friends.
+![chat](https://github.com/user-attachments/assets/36c1f169-67fc-46ff-b8b1-f8e7532a84f2)
 
-   ![noti](https://github.com/user-attachments/assets/a5fca380-3572-4403-a552-bcb4f6a73b80)
 
 3. **Search with Debounce**:
    - Efficient search for users or content with a debounce mechanism to optimize performance and minimize server load.
