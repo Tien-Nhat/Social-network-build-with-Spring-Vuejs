@@ -86,7 +86,8 @@ Once the project is successfully run, you can explore the following key features
 4. **Friend List Online Status**:
    - The friend list shows dot indicators for online (green) or offline (gray) status in real-time.
 
-   ![Friend List](https://via.placeholder.com/400x200)
+   ![dot](https://github.com/user-attachments/assets/cafc2c32-f449-4ce7-99a9-08840317c9c6)
+
 
 5. **News Feed**:
    - Users can view the latest posts from their friends on a personalized feed.
