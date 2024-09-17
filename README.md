@@ -36,7 +36,6 @@ VITE_API_URL=http://localhost:8080
 #### 2. Spring Boot Backend:
 In the `application.properties` file, update the following properties:
 ```properties
-spring.datasource.url= jdbc:mysql://localhost:3306/YOUR_DATABASE_NAME
 spring.datasource.url=jdbc:mysql://localhost:3306/YOUR_DATABASE_NAME
 spring.datasource.username=YOUR_DB_USERNAME
 spring.datasource.password=YOUR_DB_PASSWORD
