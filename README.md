@@ -81,7 +81,7 @@ VALUES ('ROLE_USER'), ('ROLE_MODERATOR'), ('ROLE_ADMIN');
    ```bash
    cd Vue_frontend
    npm install
-   npm run serve
+   npm run dev
    ```
 
 ### Showcase of Features:
