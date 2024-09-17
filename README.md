@@ -19,6 +19,29 @@ This project is a full-stack social network platform built using **Spring Boot**
 - **Frontend**: Vue.js, Vuex, Vue Router, Axios, Bootstrap, Element-plus
 - **Real-time Features**: WebSocket for real-time notifications (friend requests, likes, comments), chat messages, and online status updates
 - **Database**: MySQL for persistent data storage
+### Setup Guide:
+
+Before running the project, you will need to provide specific configuration values in both the frontend and backend.
+
+#### 1. Vue.js Frontend:
+In the `.env` file, update the following variables:
+```bash
+VITE_GOOGLE_CLIENT_ID=YOUR_GOOGLE_CLIENT_ID
+VITE_API_URL=http://localhost:8080
+```
+
+- Replace `YOUR_GOOGLE_CLIENT_ID` with your actual Google OAuth client ID.
+- `VITE_API_URL` should point to the URL of your backend API.
+
+#### 2. Spring Boot Backend:
+In the `application.properties` file, update the following properties:
+```properties
+google.client-id=YOUR_CLIENT-ID
+google.client-secret=YOUR_CLIENT_SECRET
+google.redirect-uri=YOUR_REDIRECT_URI
+```
+
+- Replace `YOUR_CLIENT-ID`, `YOUR_CLIENT_SECRET`, and `YOUR_REDIRECT_URI` with the corresponding values from your Google OAuth setup.
 
 ### Database Setup:
 1. **Run the Spring project**: First, run the project once to let Spring automatically create the database tables.
