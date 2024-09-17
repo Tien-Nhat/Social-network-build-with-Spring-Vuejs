@@ -36,11 +36,16 @@ VITE_API_URL=http://localhost:8080
 #### 2. Spring Boot Backend:
 In the `application.properties` file, update the following properties:
 ```properties
+spring.datasource.url= jdbc:mysql://localhost:3306/YOUR_DATABASE_NAME
+spring.datasource.url=jdbc:mysql://localhost:3306/YOUR_DATABASE_NAME
+spring.datasource.username=YOUR_DB_USERNAME
+spring.datasource.password=YOUR_DB_PASSWORD
+
 google.client-id=YOUR_CLIENT-ID
 google.client-secret=YOUR_CLIENT_SECRET
 google.redirect-uri=YOUR_REDIRECT_URI
 ```
-
+- Replace `YOUR_DATABASE_NAME`, `YOUR_DB_USERNAME`, and `YOUR_DB_PASSWORD` with your actual database name, username, and password.
 - Replace `YOUR_CLIENT-ID`, `YOUR_CLIENT_SECRET`, and `YOUR_REDIRECT_URI` with the corresponding values from your Google OAuth setup.
 
 ### Database Setup:
